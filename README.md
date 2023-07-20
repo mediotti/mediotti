@@ -1,7 +1,9 @@
 # Hi 😁, I'm Gabriel!
+I'm a 🇧🇷 Brazilian technology craftsman, eager to develop solutions in the software field. All of the projects are focused to solve real-world problems, my main goal with them is to acquire practical knowledge in many different subjects. <br>
+
 **`backend | devops | cloud infrastructure`**
 
-I'm a 🇧🇷 Brazilian technology craftsman, eager to develop solutions in the software field. All of the projects are focused to solve real-world problems, my main goal with them is to acquire practical knowledge in many different subjects.
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
