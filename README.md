@@ -1,4 +1,4 @@
-# Hi 😁, I'm Gabriel!
+# Hi 😁, I'm Mediotti!
 I'm a 🇧🇷 Brazilian technology craftsman, eager to develop solutions in the software field. All of the projects are focused to solve real-world problems, my main goal with them is to acquire practical knowledge in many different subjects. <br>
 
 **`backend | devops | cloud infrastructure`**
