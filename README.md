@@ -18,7 +18,7 @@ I'm a 🇧🇷 Brazilian technology craftsman, eager to develop solutions in the
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
   
 # Portfolio
-<h3 align="left"> Lambda Project - A street fair groceries delivery platform 🇧🇷</h3>
+<h3 align="left"> Lambda Project - A street fair groceries delivery platform 🍍</h3>
 Driven by the need to change something in the world, I see Brazilian street markets as a way to bring about digital transformation. The Lambda Project integrates marketers, deliverers and consumers in an ecosystem that sows the seeds of digitalized collectivity, revolutionizing one of the most traditional means of commerce in Brazil
 <ul>
   <li><a href=https://github.com/mediotti/lambda-users>lambda-users</a> - Responsible to manage user information and authentication.
