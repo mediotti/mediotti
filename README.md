@@ -18,10 +18,16 @@ I'm a 🇧🇷 Brazilian technology craftsman, eager to develop solutions in the
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
   
 # Portfolio
+<h3 align="left"> Lambda Project - A street fair groceries delivery platform 🇧🇷</h3>
+Driven by the need to change something in the world, I see Brazilian street markets as a way to bring about digital transformation. The Lambda Project integrates marketers, deliverers and consumers in an ecosystem that sows the seeds of digitalized collectivity, revolutionizing one of the most traditional means of commerce in Brazil
+<ul>
+  <li><a href=https://github.com/mediotti/lambda-users>lambda-users</a> - Responsible to manage user information and authentication.
+</ul>
+
 <h3 align="left"> Animanager - A veterinary hospital system 🐶</h3>
 One of my passions is animals, and motivated by that, I started the Animanager project.<br>
 Animanager is my main project lately, the purpose of it is to contextualize my studies in backend development and good DevOps practices. The system is divided into microservices built in Java, powered by the Spring Framework.
 <ul>
-  <li><a href=https://github.com/medzdev/animanager-records>animanager-records</a> - Responsible to manage information records from users.</li>
-  <li><a href=https://github.com/medzdev/animanager-emergencies>animanager-emergencies</a> - Responsible to manage medical records from animals.</li>
+  <li><a href=https://github.com/mediotti/animanager-records>animanager-records</a> - Responsible to manage information records from users.</li>
+  <li><a href=https://github.com/mediotti/animanager-emergencies>animanager-emergencies</a> - Responsible to manage medical records from animals.</li>
 </ul>
